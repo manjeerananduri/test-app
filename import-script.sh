@@ -1,2 +1,3 @@
 import files
-./import-script.sh
+
+echo "add one more file"
